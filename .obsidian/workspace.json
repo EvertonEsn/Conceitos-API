@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "bdfd04b60d69f611",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aec04c4a6b17e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a836934c2dded4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API -> Application Programming Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API -> Application Programming Interface"
+            }
+          },
+          {
+            "id": "f6ea67279428fcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web API"
+            }
+          },
+          {
+            "id": "8b7d8d7f0e0d7ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOAP - Simple Object Access Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOAP - Simple Object Access Protocol"
+            }
+          },
+          {
+            "id": "28c5d103fbc88a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rest -> Representantional State Transfer Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rest -> Representantional State Transfer Protocol"
+            }
+          },
+          {
+            "id": "c06c997b847791ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rest -> Representantional State Transfer Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rest -> Representantional State Transfer Protocol"
+            }
+          },
+          {
+            "id": "b65b27b92f3e144a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquivo de Contexto do Ef Core.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquivo de Contexto do Ef Core"
+            }
+          },
+          {
+            "id": "380b1cc75a71496d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é o EF Core migrations?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O que é o EF Core migrations?"
+            }
+          },
+          {
+            "id": "270bf345de59dca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Services X Api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Services X Api"
+            }
+          },
+          {
+            "id": "49ca488dbc8c6e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API -> Application Programming Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API -> Application Programming Interface"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b324990e5f7f1a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed95f1a85d587f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5723f5f50b5292c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "05006c0bf96be7d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c1f3b4fd527c1435",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa99b20197da5234",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa2603246d5ac1f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94451cf87f378efd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rest -> Representantional State Transfer Protocol.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Rest -> Representantional State Transfer Protocol"
+            }
+          },
+          {
+            "id": "53e6a234ecb0346e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rest -> Representantional State Transfer Protocol.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Rest -> Representantional State Transfer Protocol"
+            }
+          },
+          {
+            "id": "53a208315fffd786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79897bb9cb10f6cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rest -> Representantional State Transfer Protocol.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Rest -> Representantional State Transfer Protocol"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "380b1cc75a71496d",
+  "lastOpenFiles": [
+    "Arquivo de Contexto do Ef Core.md",
+    "O que é o EF Core migrations?.md",
+    "Rest -> Representantional State Transfer Protocol.md",
+    "sem estado.md",
+    "Sem estado -> Stateless.md",
+    "SOAP - Simple Object Access Protocol.md",
+    "Web API.md",
+    "Web Services.md",
+    "Web Services X Api.md",
+    "API -> Application Programming Interface.md",
+    "API.md",
+    "Api.md",
+    "Webservices.md"
+  ]
+}
